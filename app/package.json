@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "hapi js app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Doron Segal",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^8.0.0",
+    "underscore": "^1.7.0"
+  }
+}

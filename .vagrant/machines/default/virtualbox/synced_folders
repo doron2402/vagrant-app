@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"create":true,"guestpath":"/var/www","hostpath":"/Users/dsegal/vagrants/ubuntu/app","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/dsegal/vagrants/ubuntu","disabled":false}}}
